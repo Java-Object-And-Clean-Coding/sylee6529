@@ -10,6 +10,7 @@
 [11장 시스템](https://www.notion.so/11-2253821ca2724f34bad73d854ea6556f?pvs=4)  
 [12장 창발성](https://radical-colony-e9a.notion.site/12-35f7f7174e3247d1a463d1bd398f8a8c)  
 [부록A 동시성 2](https://radical-colony-e9a.notion.site/2-60eaa1f265c1499abdf9b0f7c5356014)  
+[14장 점진적인 개선](https://radical-colony-e9a.notion.site/14-5cf6f1bc089c4bf583fd1cd1b60660da)
 
 
 ## 공부 유무 체크하기! ✅
