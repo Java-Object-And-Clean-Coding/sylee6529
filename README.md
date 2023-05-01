@@ -1,4 +1,6 @@
 ## 오늘 공부한 것 요약 정리 📚
+
+### 클린 코드 정리
 [1장 깨끗한 코드](https://radical-colony-e9a.notion.site/1-f589a574e4804bf8aec0ee14f626c179)  
 [4장 주석](https://radical-colony-e9a.notion.site/4-4e45d7ca82764af283e7e69ce3369d36)  
 [5장 형식맞추기](https://radical-colony-e9a.notion.site/5-2c44aee22367496b905f3fa985d90355)  
@@ -11,6 +13,11 @@
 [12장 창발성](https://radical-colony-e9a.notion.site/12-35f7f7174e3247d1a463d1bd398f8a8c)  
 [부록A 동시성 2](https://radical-colony-e9a.notion.site/2-60eaa1f265c1499abdf9b0f7c5356014)  
 [14장 점진적인 개선](https://radical-colony-e9a.notion.site/14-5cf6f1bc089c4bf583fd1cd1b60660da)
+
+
+### 클린 코드 정리
+[1장 객체, 설계](https://www.notion.so/1-4b1de8c184114ac58f0437f622155ff4?pvs=4)  
+[2장 객체지향 프로그래밍](https://www.notion.so/2-915b72a0dfdc4a5587108311aa3a6134?pvs=4)
 
 
 ## 공부 유무 체크하기! ✅
