@@ -17,7 +17,7 @@
 
 ### 클린 코드 정리
 [1장 객체, 설계](https://www.notion.so/1-4b1de8c184114ac58f0437f622155ff4?pvs=4)  
-[2장 객체지향 프로그래밍](https://www.notion.so/2-915b72a0dfdc4a5587108311aa3a6134?pvs=4)
+[2장 객체지향 프로그래밍](https://www.notion.so/2-915b72a0dfdc4a5587108311aa3a6134?pvs=4)  
 [3장 역할, 책임, 협력](https://radical-colony-e9a.notion.site/3-0c7d91a8fb0d41a2b8a3c790a874d6c8?pvs=4)  
 
 ## 공부 유무 체크하기! ✅
